@@ -121,5 +121,5 @@ If you encounter issues:
 ## Additional Resources
 
 - [Vertex AI RAG Documentation](https://cloud.google.com/vertex-ai/generative-ai/docs/rag-overview)
-- [Google Agent Development Kit (ADK) Documentation]([https://github.com/google/agents-framework](https://google.github.io/adk-docs/))
+- [Google Agent Development Kit (ADK) Documentation](https://google.github.io/adk-docs/)
 - [Google Cloud Authentication Guide](https://cloud.google.com/docs/authentication)
